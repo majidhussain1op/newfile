@@ -1,0 +1,33 @@
+/* *{
+    background-color: aqua;
+    color: blue;
+} */
+
+/* a link{
+    color: green;
+}
+a :visited{
+    color: red;
+}
+
+input:active{
+    background-color:aqua
+}
+button:hover{
+    background-color:red;
+    color: chartreuse;
+} */
+div {
+    border: 1px solid greenyellow;
+    border-style: ridge;
+    width: 60%;
+    max-width: 700px;
+    min-width: 300px;
+    max-height: 400px;
+    overflow: scroll;
+    padding: 10px;
+    margin-left: 200px;
+}
+img{
+    width: 100%;
+}
